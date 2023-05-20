@@ -1,0 +1,1 @@
+# world-suicide-rates-eda
